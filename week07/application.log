@@ -1,0 +1,10 @@
+INFO Web server started
+INFO User login successful
+ERROR Database connection failed
+WARNING Disk usage at 82 percent
+INFO User login successful
+ERROR Authentication service unavailable
+ERROR Database connection failed
+INFO Backup completed
+WARNING Disk usage at 85 percent
+ERROR Database connection failed

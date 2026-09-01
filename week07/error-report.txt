@@ -1,0 +1,2 @@
+      1 ERROR Authentication service unavailable
+      3 ERROR Database connection failed

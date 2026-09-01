@@ -1,0 +1,2 @@
+WARNING Disk usage at 82 percent
+WARNING Disk usage at 85 percent
