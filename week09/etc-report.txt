@@ -1,0 +1,10 @@
+total 832K
+-rw-r--r-- 1 root        root        3.9K May  6  2025 adduser.conf
+-rw-r--r-- 1 root        root          16 Feb  4  2026 adjtime
+drwxr-xr-x 1 root        root          12 Feb  4  2026 alsa
+drwxr-xr-x 1 root        root         14K Sep 19 22:25 alternatives
+drwxr-xr-x 1 root        root          70 Feb  4  2026 amap
+drwxr-xr-x 1 root        root          64 Feb  4  2026 anonsurf
+drwxr-xr-x 1 root        root         228 Jul  5 23:13 apache2
+drwxr-xr-x 1 root        root         178 Feb  4  2026 apparmor
+drwxr-xr-x 1 root        root        3.6K Sep 19 22:25 apparmor.d
